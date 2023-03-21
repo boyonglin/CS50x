@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: reversed sequence could be the worst
+
+sort2 uses: merge sort
+
+How do you know?: best time performance
+
+sort3 uses: selection sort
+
+How do you know?: sorted sequence still takes time
